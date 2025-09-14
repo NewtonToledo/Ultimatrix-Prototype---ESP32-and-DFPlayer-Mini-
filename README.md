@@ -53,4 +53,15 @@ The Ultimatrix includes several interactive modes that enhance both entertainmen
 - **English Learning Mode:**  
   The last 4 modes are dedicated to English learning through easy phrases, vowels, numbers, and colors.
 
+## Video Demo  
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=3azAWYxgHlA" target="_blank">
+    <img src="https://img.youtube.com/vi/3azAWYxgHlA/0.jpg" alt="Watch the Short" width="500"/>
+  </a>
+  <br>
+  <em>Demo of the Ultimatrix Project</em>
+</p>
+
+
 
